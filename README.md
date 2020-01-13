@@ -1,2 +1,2 @@
 # mlr
-multiple linear regression
+multiple linear regression model illustrating gradient descent, SGD, mini batch GD and sklearn's lr
